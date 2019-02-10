@@ -1,0 +1,4 @@
+The following Python3 modules are required to make the program moviemap.py work:
+folium
+distutils.core
+geocoder
